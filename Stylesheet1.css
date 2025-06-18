@@ -231,6 +231,8 @@ Recommended Resolution: 1920x1080 FULLSCREEN
         background: transparent;
         border-top: transparent;
         border-bottom: transparent;
+        border-right: transparent;
+        border-left: transparent;
         box-shadow: none;
     }
 
@@ -238,6 +240,8 @@ Recommended Resolution: 1920x1080 FULLSCREEN
         background: transparent;
         border-top: transparent;
         border-bottom: transparent;
+        border-right: transparent;
+        border-left: transparent;
         box-shadow: none;
     }
 
@@ -245,6 +249,8 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     background-color: transparent !important;
     border-bottom: transparent !important;
     border-top: transparent !important;
+    border-right: transparent;
+    border-left: transparent;
     margin-top: 40px;
 }
 
@@ -438,7 +444,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
 
 .kill-death {
     position: fixed;
-    right: 1px;
+    background: url(https://w7.pngwing.com/pngs/912/598/png-transparent-anime-girl-thumbnail.png) center !important;
     bottom: 2%;
     left: unset !important;
     top: unset !important;
