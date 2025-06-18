@@ -37,7 +37,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     display: none;
 }
 .interface .background {
-    background: url(https://images6.alphacoders.com/132/1320430.jpeg) no-repeat center center !important;
+    background: url(https://images6.alphacoders.com/139/thumb-1920-1395324.png) no-repeat center center !important;
     background-size: cover !important;
     animation: animate 10s linear infinite !important;
 }
@@ -89,7 +89,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
 }
 
 .left-icons .icon-btn[style="--i:5;"] {
-    background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1461f3fd-5c15-4e53-bd91-195e289f26e5/dej9ph6-44682d42-d292-4215-be19-a3a9ae6d0572.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzE0NjFmM2ZkLTVjMTUtNGU1My1iZDkxLTE5NWUyODlmMjZlNVwvZGVqOXBoNi00NDY4MmQ0Mi1kMjkyLTQyMTUtYmUxOS1hM2E5YWU2ZDA1NzIuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.DBluz5tkQIuLdUOjfyoaczsxt6eXpZ2yPtsrFrEkfFo)no-repeat center center !important;
+    background: url(https://static.animecorner.me/2025/03/1742987164-d59208611643f85a7429793ccc22fc65.jpg)no-repeat center center !important;
     background-size: cover !important;
     border-top: transparent !important;
     border-bottom: transparent !important;
@@ -98,7 +98,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
 }
 
 #icon-store {
-    background: url(https://dippedindoodles.in/cdn/shop/collections/1_0a97bdde-a685-4c72-a747-86b252e55baa.jpg?v=1711088322)no-repeat center center !important;
+    background: url(https://a.storyblok.com/f/178900/1412x2000/30a0b580c9/the-shiunji-family-children-banri-date-visual.jpg) no-repeat center center !important;
     background-size: cover !important;
     border-top: transparent !important;
     border-bottom: transparent !important;
@@ -108,7 +108,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
 }
 
 .left-icons .icon-btn:nth-child(1) {
-    background: url(https://i.redd.it/zmst2fhq7ul61.jpg) no-repeat center center !important;
+    background: url(https://a.storyblok.com/f/178900/1320x743/99c9c65875/the-shiunji-family-children.jpg) no-repeat center center !important;
     background-size: cover !important;
     border-top: transparent !important;
     border-bottom: transparent;
@@ -118,7 +118,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
 }
 
 .icon-btn:nth-child(3) {
-    background: url(https://i.redd.it/xlhu5hhtcwh81.jpg) no-repeat center center !important;
+    background: url(https://a.storyblok.com/f/178900/1500x2000/04e747606d/the-shiunji-family-children-kotono-shiunji-visual.jpg) no-repeat center center !important;
     background-size: cover !important;
     border-bottom: transparent;
     border-top: transparent;
@@ -128,7 +128,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
 }
 
 .icon-btn:nth-child(5) {
-    background: url(https://wallpapercat.com/w/full/5/3/f/88964-1440x2560-phone-hd-horimiya-wallpaper-image.jpg) no-repeat center center !important;
+    background: url(https://a.storyblok.com/f/178900/1413x2000/0a09aa7ef6/the-shiunji-family-children-seiha-date-visual.jpg) no-repeat center center !important;
     background-size: cover !important;
     border-bottom: transparent;
     border-top: transparent;
@@ -138,7 +138,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
 }
 
 .icon-btn:nth-child(6) {
-    background: url(https://i.redd.it/dbm7b9etgft91.jpg) no-repeat center center !important;
+    background: url(https://static.wikia.nocookie.net/shiunjike-no-kodomotachi/images/1/15/Shion_Shiunji_Anime_1.png/revision/latest?cb=20250614125355) no-repeat center center !important;
     background-size: cover !important;
     border-bottom: transparent;
     border-top: transparent;
@@ -148,7 +148,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
 }
 
 .icon-btn:nth-child(7) {
-    background: url(https://i.pinimg.com/originals/e8/f7/52/e8f7529798bd2c4d4913b0aacf050472.jpg) no-repeat center center !important;
+    background: url(https://i0.wp.com/anitrendz.net/news/wp-content/uploads/2024/11/the-shiunji-family-children-arata-character-visual-1.jpg?resize=350%2C467&ssl=1) no-repeat center center !important;
     background-size: cover !important;
     border-bottom: transparent;
     border-top: transparent;
@@ -223,6 +223,8 @@ Recommended Resolution: 1920x1080 FULLSCREEN
 
 .moneys {
     position: fixed;
+    border-right: transparent;
+    border-left: transparent;
     left: 8% !important;
     top: 85% !important;
 }
