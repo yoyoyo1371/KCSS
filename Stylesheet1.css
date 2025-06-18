@@ -1,4 +1,4 @@
-﻿/*
+/*
 Kirka.io Public Browser CSS
 Made By: NizzQ
 
@@ -93,6 +93,8 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     background-size: cover !important;
     border-top: transparent !important;
     border-bottom: transparent !important;
+    border-left: transparent !important;
+    border-right: transparent !important;
 }
 
 #icon-store {
@@ -100,6 +102,8 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     background-size: cover !important;
     border-top: transparent !important;
     border-bottom: transparent !important;
+    border-left: transparent !important;
+    border-right: transparent !important;
     box-shadow: none !important;
 }
 
@@ -108,6 +112,8 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     background-size: cover !important;
     border-top: transparent !important;
     border-bottom: transparent;
+    border-left: transparent !important;
+    border-right: transparent !important;
     box-shadow: none;
 }
 
@@ -116,6 +122,8 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     background-size: cover !important;
     border-bottom: transparent;
     border-top: transparent;
+    border-left: transparent !important;
+    border-right: transparent !important;
     box-shadow: none;
 }
 
@@ -124,6 +132,8 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     background-size: cover !important;
     border-bottom: transparent;
     border-top: transparent;
+    border-left: transparent !important;
+    border-right: transparent !important;
     box-shadow: none;
 }
 
@@ -132,6 +142,8 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     background-size: cover !important;
     border-bottom: transparent;
     border-top: transparent;
+    border-left: transparent !important;
+    border-right: transparent !important;
     box-shadow: none;
 }
 
@@ -140,6 +152,8 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     background-size: cover !important;
     border-bottom: transparent;
     border-top: transparent;
+    border-left: transparent !important;
+    border-right: transparent !important;
     box-shadow: none;
 }
 
