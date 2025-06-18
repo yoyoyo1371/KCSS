@@ -242,7 +242,7 @@ Recommended Resolution: 1920x1080 FULLSCREEN
     }
 
 .settings {
-    background-color: aquamarine !important;
+    background-color: transparent !important;
     border-bottom: transparent !important;
     border-top: transparent !important;
     margin-top: 40px;
